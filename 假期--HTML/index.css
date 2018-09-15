@@ -1,0 +1,13 @@
+body{background-color:#789;
+color: #191970;}
+h1{background-color: #191970;
+color:#e6e6ea}
+nav{background-color: #e2e2ef}
+footer{color:#666666}
+div{color:#654354}
+.content{color:blue}
+.distance{margin-bottom: 0};
+img{ border-style: none;}
+h1{background-image: url(image/background.jpg)}
+h2{padding-left: 30px;}
+ol{ list-style-type: circle;}
